@@ -1,0 +1,30 @@
+# 依赖目录
+node_modules/
+server/node_modules/
+
+# 构建输出
+dist/
+server/dist/
+build/
+
+# 环境变量
+.env
+.env.local
+.env.production
+
+# 日志
+*.log
+npm-debug.log*
+
+# 运行时数据
+server/src/data/  # 后端数据文件，不上传！
+
+# IDE 文件
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# 系统文件
+.DS_Store
+Thumbs.db

@@ -1,0 +1,510 @@
+{
+  "votes": [
+    {
+      "sessionId": "user-1762437579520",
+      "dimension": "comfort",
+      "winner": "day_012",
+      "loser": "day_004",
+      "timestamp": 1762437579546,
+      "userVoteCount": 1
+    },
+    {
+      "sessionId": "user-1762437587987",
+      "dimension": "comfort",
+      "winner": "night_016",
+      "loser": "night_001",
+      "timestamp": 1762437588010,
+      "userVoteCount": 2
+    },
+    {
+      "sessionId": "user-1762437602630",
+      "dimension": "comfort",
+      "winner": "day_013",
+      "loser": "day_003",
+      "timestamp": 1762437602649,
+      "userVoteCount": 3
+    },
+    {
+      "sessionId": "user-1762437957300",
+      "dimension": "comfort",
+      "winner": "day_004",
+      "loser": "day_002",
+      "timestamp": 1762437957317,
+      "userVoteCount": 4
+    },
+    {
+      "sessionId": "user-1762437959387",
+      "dimension": "comfort",
+      "winner": "night_019",
+      "loser": "night_005",
+      "timestamp": 1762437959404,
+      "userVoteCount": 5
+    },
+    {
+      "sessionId": "user-1762437961044",
+      "dimension": "comfort",
+      "winner": "day_004",
+      "loser": "day_001",
+      "timestamp": 1762437961310,
+      "userVoteCount": 6
+    },
+    {
+      "sessionId": "user-1762437963142",
+      "dimension": "comfort",
+      "winner": "night_014",
+      "loser": "night_004",
+      "timestamp": 1762437963166,
+      "userVoteCount": 7
+    },
+    {
+      "sessionId": "user-1762437963351",
+      "dimension": "comfort",
+      "winner": "night_021",
+      "loser": "night_019",
+      "timestamp": 1762437963353,
+      "userVoteCount": 8
+    },
+    {
+      "sessionId": "user-1762437963865",
+      "dimension": "comfort",
+      "winner": "night_016",
+      "loser": "night_017",
+      "timestamp": 1762437965041,
+      "userVoteCount": 9
+    },
+    {
+      "sessionId": "user-1762437963878",
+      "dimension": "comfort",
+      "winner": "night_016",
+      "loser": "night_017",
+      "timestamp": 1762437965048,
+      "userVoteCount": 10
+    },
+    {
+      "sessionId": "user-1762437964045",
+      "dimension": "comfort",
+      "winner": "night_016",
+      "loser": "night_017",
+      "timestamp": 1762437965052,
+      "userVoteCount": 11
+    },
+    {
+      "sessionId": "user-1762437964212",
+      "dimension": "comfort",
+      "winner": "night_016",
+      "loser": "night_017",
+      "timestamp": 1762437965056,
+      "userVoteCount": 12
+    },
+    {
+      "sessionId": "user-1762437964393",
+      "dimension": "comfort",
+      "winner": "night_016",
+      "loser": "night_017",
+      "timestamp": 1762437965059,
+      "userVoteCount": 13
+    },
+    {
+      "sessionId": "user-1762437964573",
+      "dimension": "comfort",
+      "winner": "night_016",
+      "loser": "night_017",
+      "timestamp": 1762437965063,
+      "userVoteCount": 14
+    },
+    {
+      "sessionId": "user-1762437964790",
+      "dimension": "comfort",
+      "winner": "night_016",
+      "loser": "night_017",
+      "timestamp": 1762437965066,
+      "userVoteCount": 15
+    },
+    {
+      "sessionId": "user-1762437967254",
+      "dimension": "comfort",
+      "winner": "night_007",
+      "loser": "night_023",
+      "timestamp": 1762437967271,
+      "userVoteCount": 16
+    },
+    {
+      "sessionId": "user-1762437969282",
+      "dimension": "comfort",
+      "winner": "night_008",
+      "loser": "night_011",
+      "timestamp": 1762437969305,
+      "userVoteCount": 17
+    },
+    {
+      "sessionId": "user-1762437971032",
+      "dimension": "comfort",
+      "winner": "day_014",
+      "loser": "day_005",
+      "timestamp": 1762437971213,
+      "userVoteCount": 18
+    },
+    {
+      "sessionId": "user-1762437971192",
+      "dimension": "comfort",
+      "winner": "day_014",
+      "loser": "day_005",
+      "timestamp": 1762437971221,
+      "userVoteCount": 19
+    },
+    {
+      "sessionId": "user-1762437972900",
+      "dimension": "comfort",
+      "winner": "day_015",
+      "loser": "day_012",
+      "timestamp": 1762437973173,
+      "userVoteCount": 20
+    },
+    {
+      "sessionId": "user-1762437973165",
+      "dimension": "comfort",
+      "winner": "day_015",
+      "loser": "day_012",
+      "timestamp": 1762437973181,
+      "userVoteCount": 21
+    },
+    {
+      "sessionId": "user-1762437973384",
+      "dimension": "comfort",
+      "winner": "night_007",
+      "loser": "night_021",
+      "timestamp": 1762437973386,
+      "userVoteCount": 22
+    },
+    {
+      "sessionId": "user-1762437975637",
+      "dimension": "comfort",
+      "winner": "night_010",
+      "loser": "night_020",
+      "timestamp": 1762437975659,
+      "userVoteCount": 23
+    },
+    {
+      "sessionId": "user-1762437975797",
+      "dimension": "comfort",
+      "winner": "night_006",
+      "loser": "night_021",
+      "timestamp": 1762437975800,
+      "userVoteCount": 24
+    },
+    {
+      "sessionId": "user-1762437978024",
+      "dimension": "comfort",
+      "winner": "day_019",
+      "loser": "day_017",
+      "timestamp": 1762437978042,
+      "userVoteCount": 25
+    },
+    {
+      "sessionId": "user-1762437978880",
+      "dimension": "comfort",
+      "winner": "day_001",
+      "loser": "day_018",
+      "timestamp": 1762437979902,
+      "userVoteCount": 26
+    },
+    {
+      "sessionId": "user-1762437979492",
+      "dimension": "comfort",
+      "winner": "day_001",
+      "loser": "day_018",
+      "timestamp": 1762437979911,
+      "userVoteCount": 27
+    },
+    {
+      "sessionId": "user-1762437983539",
+      "dimension": "comfort",
+      "winner": "night_019",
+      "loser": "night_006",
+      "timestamp": 1762437983562,
+      "userVoteCount": 28
+    },
+    {
+      "sessionId": "user-1762437985080",
+      "dimension": "comfort",
+      "winner": "night_016",
+      "loser": "night_022",
+      "timestamp": 1762437985348,
+      "userVoteCount": 29
+    },
+    {
+      "sessionId": "user-1762437986177",
+      "dimension": "comfort",
+      "winner": "night_023",
+      "loser": "night_022",
+      "timestamp": 1762437987210,
+      "userVoteCount": 30
+    }
+  ],
+  "eloRatings": {
+    "day_012": {
+      "rating": 984,
+      "votes": 3
+    },
+    "day_004": {
+      "rating": 1017,
+      "votes": 3
+    },
+    "night_016": {
+      "rating": 1112,
+      "votes": 9
+    },
+    "night_001": {
+      "rating": 984,
+      "votes": 1
+    },
+    "day_013": {
+      "rating": 1016,
+      "votes": 1
+    },
+    "day_003": {
+      "rating": 984,
+      "votes": 1
+    },
+    "day_002": {
+      "rating": 983,
+      "votes": 1
+    },
+    "night_019": {
+      "rating": 1016,
+      "votes": 3
+    },
+    "night_005": {
+      "rating": 984,
+      "votes": 1
+    },
+    "day_001": {
+      "rating": 1016,
+      "votes": 3
+    },
+    "night_014": {
+      "rating": 1016,
+      "votes": 1
+    },
+    "night_004": {
+      "rating": 984,
+      "votes": 1
+    },
+    "night_021": {
+      "rating": 985,
+      "votes": 3
+    },
+    "night_017": {
+      "rating": 916,
+      "votes": 7
+    },
+    "night_007": {
+      "rating": 1032,
+      "votes": 2
+    },
+    "night_023": {
+      "rating": 1000,
+      "votes": 2
+    },
+    "night_008": {
+      "rating": 1016,
+      "votes": 1
+    },
+    "night_011": {
+      "rating": 984,
+      "votes": 1
+    },
+    "day_014": {
+      "rating": 1031,
+      "votes": 2
+    },
+    "day_005": {
+      "rating": 969,
+      "votes": 2
+    },
+    "day_015": {
+      "rating": 1032,
+      "votes": 2
+    },
+    "night_010": {
+      "rating": 1016,
+      "votes": 1
+    },
+    "night_020": {
+      "rating": 984,
+      "votes": 1
+    },
+    "night_006": {
+      "rating": 999,
+      "votes": 2
+    },
+    "day_019": {
+      "rating": 1016,
+      "votes": 1
+    },
+    "day_017": {
+      "rating": 984,
+      "votes": 1
+    },
+    "day_018": {
+      "rating": 968,
+      "votes": 2
+    },
+    "night_022": {
+      "rating": 972,
+      "votes": 2
+    }
+  },
+  "userSessions": {
+    "user-1762437579520": {
+      "createdAt": 1762437579546,
+      "totalVotes": 1,
+      "lastActivity": 1762437579546
+    },
+    "user-1762437587987": {
+      "createdAt": 1762437588010,
+      "totalVotes": 2,
+      "lastActivity": 1762437588010
+    },
+    "user-1762437602630": {
+      "createdAt": 1762437602649,
+      "totalVotes": 3,
+      "lastActivity": 1762437602649
+    },
+    "user-1762437957300": {
+      "createdAt": 1762437957317,
+      "totalVotes": 4,
+      "lastActivity": 1762437957317
+    },
+    "user-1762437959387": {
+      "createdAt": 1762437959404,
+      "totalVotes": 5,
+      "lastActivity": 1762437959404
+    },
+    "user-1762437961044": {
+      "createdAt": 1762437961310,
+      "totalVotes": 6,
+      "lastActivity": 1762437961310
+    },
+    "user-1762437963142": {
+      "createdAt": 1762437963166,
+      "totalVotes": 7,
+      "lastActivity": 1762437963166
+    },
+    "user-1762437963351": {
+      "createdAt": 1762437963353,
+      "totalVotes": 8,
+      "lastActivity": 1762437963353
+    },
+    "user-1762437963865": {
+      "createdAt": 1762437965041,
+      "totalVotes": 9,
+      "lastActivity": 1762437965041
+    },
+    "user-1762437963878": {
+      "createdAt": 1762437965048,
+      "totalVotes": 10,
+      "lastActivity": 1762437965048
+    },
+    "user-1762437964045": {
+      "createdAt": 1762437965052,
+      "totalVotes": 11,
+      "lastActivity": 1762437965052
+    },
+    "user-1762437964212": {
+      "createdAt": 1762437965056,
+      "totalVotes": 12,
+      "lastActivity": 1762437965056
+    },
+    "user-1762437964393": {
+      "createdAt": 1762437965059,
+      "totalVotes": 13,
+      "lastActivity": 1762437965059
+    },
+    "user-1762437964573": {
+      "createdAt": 1762437965063,
+      "totalVotes": 14,
+      "lastActivity": 1762437965063
+    },
+    "user-1762437964790": {
+      "createdAt": 1762437965066,
+      "totalVotes": 15,
+      "lastActivity": 1762437965066
+    },
+    "user-1762437967254": {
+      "createdAt": 1762437967271,
+      "totalVotes": 16,
+      "lastActivity": 1762437967271
+    },
+    "user-1762437969282": {
+      "createdAt": 1762437969305,
+      "totalVotes": 17,
+      "lastActivity": 1762437969305
+    },
+    "user-1762437971032": {
+      "createdAt": 1762437971213,
+      "totalVotes": 18,
+      "lastActivity": 1762437971213
+    },
+    "user-1762437971192": {
+      "createdAt": 1762437971221,
+      "totalVotes": 19,
+      "lastActivity": 1762437971221
+    },
+    "user-1762437972900": {
+      "createdAt": 1762437973173,
+      "totalVotes": 20,
+      "lastActivity": 1762437973173
+    },
+    "user-1762437973165": {
+      "createdAt": 1762437973181,
+      "totalVotes": 21,
+      "lastActivity": 1762437973181
+    },
+    "user-1762437973384": {
+      "createdAt": 1762437973386,
+      "totalVotes": 22,
+      "lastActivity": 1762437973386
+    },
+    "user-1762437975637": {
+      "createdAt": 1762437975659,
+      "totalVotes": 23,
+      "lastActivity": 1762437975659
+    },
+    "user-1762437975797": {
+      "createdAt": 1762437975800,
+      "totalVotes": 24,
+      "lastActivity": 1762437975800
+    },
+    "user-1762437978024": {
+      "createdAt": 1762437978042,
+      "totalVotes": 25,
+      "lastActivity": 1762437978042
+    },
+    "user-1762437978880": {
+      "createdAt": 1762437979902,
+      "totalVotes": 26,
+      "lastActivity": 1762437979902
+    },
+    "user-1762437979492": {
+      "createdAt": 1762437979911,
+      "totalVotes": 27,
+      "lastActivity": 1762437979911
+    },
+    "user-1762437983539": {
+      "createdAt": 1762437983562,
+      "totalVotes": 28,
+      "lastActivity": 1762437983562
+    },
+    "user-1762437985080": {
+      "createdAt": 1762437985348,
+      "totalVotes": 29,
+      "lastActivity": 1762437985348
+    },
+    "user-1762437986177": {
+      "createdAt": 1762437987210,
+      "totalVotes": 30,
+      "lastActivity": 1762437987210
+    }
+  }
+}
